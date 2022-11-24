@@ -8,5 +8,12 @@
       <jdbc-url>jdbc:sqlserver://EASV-THA-Q418\TH:1433;database=LibDB</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
+    <data-source source="LOCAL" name="LibDB@EASV-THA-Q418 [2]" uuid="d03093c5-4138-4c64-9b43-2c6ac4e664a5">
+      <driver-ref>sqlserver.ms</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
+      <jdbc-url>jdbc:sqlserver://EASV-THA-Q418\TH:1433;database=LibDB</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
   </component>
 </project>

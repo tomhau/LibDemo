@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="14152452-0f89-4e1d-9ef1-44a5df5c9532" name="LibDB@EASV-THA-Q418 Mapping">
+      <data-sources db="a5b4613a-d508-4382-b4a5-13ba64a2c63e" />
+      <scope>
+        <node kind="database" qname="LibDB" />
+      </scope>
+    </mapping>
+  </component>
+</project>
